@@ -131,6 +131,7 @@ Here is a footnote reference[^1].
 
 `[^1]: This is the footnote text.`
 
+[^1]: This is the footnote text.
 
 ## 11. Tables of Contents (TOC)
 
@@ -141,6 +142,9 @@ For large README files, you can include a table of contents for easy navigation.
 - [Usage](#usage)
 - [Contributing](#contributing)
 ```
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
 ## 12. Task Lists
 
