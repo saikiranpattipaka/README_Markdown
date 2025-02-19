@@ -151,3 +151,6 @@ If you want to list things that can be checked off, you can use task lists:
 - [ ] Task 2
 - [ ] Task 3
 ```
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
