@@ -7,17 +7,17 @@
 You can create multiple levels of headers, allowing you to structure the document into sections:
 
 
-`# Main Header (Level 1)`
+# Main Header (Level 1) `#`
 
-`## Subheader (Level 2)`
+## Subheader (Level 2) `##`
  
-`### Sub-subheader (Level 3`)
+### Sub-subheader (Level 3) `###`
 
-`#### Further subheading (Level 4)`
+#### Further subheading (Level 4) `####`
 
-`##### Even more (Level 5)`
+##### Even more (Level 5) `#####`
 
-`###### The smallest (Level 6)`
+###### The smallest (Level 6) `######`
 
 
 ## 2. Bold, Italics, and Strikethrough
@@ -41,6 +41,7 @@ Strikethrough: `~~Strikethrough Text~~`
 Markdown supports both ordered and unordered lists.
 
 Unordered List (bullets):
+
 `-` First item
 
 `-` Second item
@@ -48,6 +49,7 @@ Unordered List (bullets):
 `-` Third item
 
 Ordered List (numbered):
+
 `1.` First item
 
 `2.` Second item
@@ -60,7 +62,7 @@ You can also nest lists within each other:
   `-` Subitem
 
     `-` Subsubitem
-    
+
 
 ## 4. Links and Images
 
