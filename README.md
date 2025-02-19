@@ -100,6 +100,7 @@ You can use tables to display structured data, like lists of features or version
 ## 7. Blockquotes
 
 Blockquotes are great for including quotes or important messages.
+
 `> "This is a blockquote"`
 
 > "This is a blockquote."
