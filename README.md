@@ -103,10 +103,15 @@ Blockquotes are great for including quotes or important messages.
 ## 8. Horizontal Line
 
 A horizontal line is created by three dashes, asterisks, or underscores:
+
 `---`
+
 ---
+
 Or:
+
 `***`
+
 ***
 
 ## 9. Badges
