@@ -42,18 +42,25 @@ Markdown supports both ordered and unordered lists.
 
 Unordered List (bullets):
 `-` First item
+
 `-` Second item
+
 `-` Third item
 
 Ordered List (numbered):
 `1.` First item
+
 `2.` Second item
+
 `3.` Third item
 
 You can also nest lists within each other:
 `-` Main item
+
   `-` Subitem
+
     `-` Subsubitem
+    
 
 ## 4. Links and Images
 
