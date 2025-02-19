@@ -86,11 +86,16 @@ You can specify the language for syntax highlighting (e.g., bash, python, javasc
 
 You can use tables to display structured data, like lists of features or version history.
 
+```
 | Feature        | Description                   |
 |----------------|-------------------------------|
 | Feature 1      | Description of feature 1      |
 | Feature 2      | Another feature description   |
-
+```
+| Feature        | Description                   |
+|----------------|-------------------------------|
+| Feature 1      | Description of feature 1      |
+| Feature 2      | Another feature description   |
 
 ## 7. Blockquotes
 
