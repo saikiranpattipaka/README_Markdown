@@ -7,17 +7,12 @@
 You can create multiple levels of headers, allowing you to structure the document into sections:
 
 
-# Main Header (Level 1) `#`
-
-## Subheader (Level 2) `##`
- 
-### Sub-subheader (Level 3) `###`
-
-#### Further subheading (Level 4) `####`
-
-##### Even more (Level 5) `#####`
-
-###### The smallest (Level 6) `######`
+# Main Header (Level 1)           `#`text
+## Subheader (Level 2)            `##`text
+### Sub-subheader (Level 3)       `###`text
+#### Further subheading (Level 4) `####`text
+##### Even more (Level 5)         `#####`text
+###### The smallest (Level 6)     `######`text
 
 
 ## 2. Bold, Italics, and Strikethrough
