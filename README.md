@@ -2,16 +2,17 @@
 
 ## This file gives information about how to edit README.md file with different fonts and styles
 
-# 1. Headers and Subheaders
+## 1. Headers and Subheaders
 
 You can create multiple levels of headers, allowing you to structure the document into sections:
 
-# Main Header (Level 1)
-## Subheader (Level 2)
-### Sub-subheader (Level 3)
-#### Further subheading (Level 4)
-##### Even more (Level 5)
-###### The smallest (Level 6)
+
+`#` Main Header (Level 1)
+`##` Subheader (Level 2) 
+`###` Sub-subheader (Level 3)
+`####` Further subheading (Level 4)
+`#####` Even more (Level 5)
+`######` The smallest (Level 6)
 
 # 2. Bold, Italics, and Strikethrough
 
