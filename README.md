@@ -123,6 +123,9 @@ Example of a build status badge:
 `![Build Status](https://img.shields.io/badge/build-passing-brightgreen)`
 
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 ## 10. Footnotes
 
 Footnotes allow you to add more detailed notes or references:
