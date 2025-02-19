@@ -106,13 +106,11 @@ A horizontal line is created by three dashes, asterisks, or underscores:
 
 `---`
 
----
 
 Or:
 
 `***`
 
-***
 
 ## 9. Badges
 
