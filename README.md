@@ -25,11 +25,15 @@ You can create multiple levels of headers, allowing you to structure the documen
 You can emphasize text by making it bold, italicized, or crossed out.
 
 Bold: `**Bold Text**` or `__Bold Text__`
+
 Italic: `*Italic Text*` or `_Italic Text_`
+
 Strikethrough: `~~Strikethrough Text~~`
 
 **Bold Text**
+
 *Italicized Text*
+
 ~~Strikethrough Text~~
 
 ## 3. Lists
