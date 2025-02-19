@@ -19,46 +19,51 @@ You can create multiple levels of headers, allowing you to structure the documen
 
 `######` The smallest (Level 6)
 
-# 2. Bold, Italics, and Strikethrough
+
+## 2. Bold, Italics, and Strikethrough
 
 You can emphasize text by making it bold, italicized, or crossed out.
 
-Bold: **Bold Text** or __Bold Text__
-Italic: *Italic Text* or _Italic Text_
-Strikethrough: ~~Strikethrough Text~~
+Bold: `**Bold Text**` or `__Bold Text__`
+Italic: `*Italic Text*` or `_Italic Text_`
+Strikethrough: `~~Strikethrough Text~~`
 
 **Bold Text**
 *Italicized Text*
 ~~Strikethrough Text~~
 
-# 3. Lists
+## 3. Lists
+
 Markdown supports both ordered and unordered lists.
 
 Unordered List (bullets):
-- First item
-- Second item
-- Third item
-Ordered List (numbered):
-1. First item
-2. Second item
-3. Third item
-You can also nest lists within each other:
-- Main item
-  - Subitem
-    - Subsubitem
+`-` First item
+`-` Second item
+`-` Third item
 
-# 4. Links and Images
+Ordered List (numbered):
+`1.` First item
+`2.` Second item
+`3.` Third item
+
+You can also nest lists within each other:
+`-` Main item
+  `-` Subitem
+    `-` Subsubitem
+
+## 4. Links and Images
+
 Links and images are essential for interactivity and better user experience.
 
-Link: [Link Text](URL)
+`Link: [Link Text](URL)`
 
-[Google](https://www.google.com)
+`[Google](https://www.google.com)`
 
-Image: ![Alt text](Image URL)
+`Image: ![Alt text](Image URL)`
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-# 5. Code Blocks
+## 5. Code Blocks
+
 To display code in your README file, you can use inline code or code blocks.
 
 Inline code: Use backticks for small bits of code like npm start.
@@ -66,9 +71,11 @@ Inline code: Use backticks for small bits of code like npm start.
 Use the command `npm install` to install dependencies.
 Multiline code blocks: Triple backticks or indented code for multiple lines:
 
+```
 git clone https://github.com/user/repo.git
 npm install
 npm start
+```
 
 You can specify the language for syntax highlighting (e.g., bash, python, javascript).
 
