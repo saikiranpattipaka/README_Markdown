@@ -8,10 +8,15 @@ You can create multiple levels of headers, allowing you to structure the documen
 
 
 `#` Main Header (Level 1)
-`##` Subheader (Level 2) 
+
+`##` Subheader (Level 2)
+ 
 `###` Sub-subheader (Level 3)
+
 `####` Further subheading (Level 4)
+
 `#####` Even more (Level 5)
+
 `######` The smallest (Level 6)
 
 # 2. Bold, Italics, and Strikethrough
